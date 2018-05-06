@@ -8,7 +8,7 @@ To check out this beauty, find inspiration, fall in love with this design. Oh so
 Yevhen Sliusarchuk, cat lover, meme maker.
 
 # Bro, how did you make it?
-With Bootstrap 4 and some love.
+With HTML, CSS, Bootstrap 4 and some love.
 
 # Do you really think someone will read this?
 No 😪
